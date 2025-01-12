@@ -1,0 +1,10 @@
+[
+  {
+    "id": "randomUUID",
+    "name": "music-name",
+    "author": "music-author",
+    "duration": "music-duration",
+    "coverPath": "/uploads/images/your-music-cover.jpg",
+    "audioPath": "/uploads/music/your-music-audio.mp3"
+  }
+]

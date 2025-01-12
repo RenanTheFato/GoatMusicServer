@@ -1,0 +1,6 @@
+node_modules
+user-data.json
+src/uploads/images/*
+!src/uploads/images/default.png
+src/uploads/music/*
+!src/uploads/music/.gitkeep
