@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "server": "node --watch dist/server.js"
   },
   "keywords": [],
   "author": "",

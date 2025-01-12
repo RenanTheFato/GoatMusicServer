@@ -1,4 +1,5 @@
 node_modules
+dist
 user-data.json
 src/uploads/images/*
 !src/uploads/images/default.png
